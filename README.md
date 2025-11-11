@@ -1,5 +1,3 @@
-# TP7DPBO2425C2
-
 # 🚀 TP7 DPBO: Sistem Absensi Kursus (OOP PHP)
 
 Proyek ini adalah implementasi **CRUD (Create, Read, Update, Delete)** penuh menggunakan **PHP Native** dengan fokus utama pada penerapan konsep **Object-Oriented Programming (OOP)** dan *best practices* keamanan database.
